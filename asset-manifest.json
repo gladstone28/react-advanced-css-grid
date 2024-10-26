@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-advanced-css-grid/static/css/main.1a7488ce.css",
+    "main.js": "/react-advanced-css-grid/static/js/main.6516950b.js",
+    "index.html": "/react-advanced-css-grid/index.html",
+    "main.1a7488ce.css.map": "/react-advanced-css-grid/static/css/main.1a7488ce.css.map",
+    "main.6516950b.js.map": "/react-advanced-css-grid/static/js/main.6516950b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7488ce.css",
+    "static/js/main.6516950b.js"
+  ]
+}
